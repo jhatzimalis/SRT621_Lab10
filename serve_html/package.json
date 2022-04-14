@@ -1,0 +1,26 @@
+{
+  "name": "serve_html",
+  "version": "1.0.0",
+  "description": "SRT621_Lab10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhatzimalis/SRT621_Lab10.git"
+  },
+  "author": "Justin Hatzimalis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhatzimalis/SRT621_Lab10/issues"
+  },
+  "homepage": "https://github.com/jhatzimalis/SRT621_Lab10#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.3",
+    "http-status-codes": "^2.2.0",
+    "mongoose": "^6.2.10"
+  }
+}
